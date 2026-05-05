@@ -1,0 +1,4 @@
+PyQt6>=6.5.0
+# scapy is OPTIONAL — only needed for SYN scan with raw sockets.
+# Uncomment if you want SYN scan support:
+# scapy>=2.5.0

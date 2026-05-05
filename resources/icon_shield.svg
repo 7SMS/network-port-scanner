@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!--
+    PortScanner icon — minimalist shield with a "scan beam" through it.
+    Designed to read clearly at 16x16 (taskbar) and 256x256 (alt-tab).
+    Color: neon green on dark background, matches the app theme.
+  -->
+
+  <!-- Dark background, slightly rounded for modern feel -->
+  <rect width="256" height="256" rx="40" fill="#0a0e14"/>
+
+  <!-- Subtle inner border for depth -->
+  <rect x="6" y="6" width="244" height="244" rx="36"
+        fill="none" stroke="#1f2933" stroke-width="2"/>
+
+  <!-- Shield outline — represents security -->
+  <path d="M 128 40
+           L 200 64
+           L 200 130
+           Q 200 180 128 216
+           Q 56 180 56 130
+           L 56 64 Z"
+        fill="none"
+        stroke="#39ff14"
+        stroke-width="8"
+        stroke-linejoin="round"/>
+
+  <!-- Port "scan beam" — three horizontal lines, scanning effect -->
+  <line x1="80" y1="100" x2="176" y2="100"
+        stroke="#39ff14" stroke-width="6" stroke-linecap="round"/>
+  <line x1="80" y1="128" x2="176" y2="128"
+        stroke="#39ff14" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+  <line x1="80" y1="156" x2="176" y2="156"
+        stroke="#39ff14" stroke-width="6" stroke-linecap="round" opacity="0.4"/>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!--
+    PortScanner icon — 7SM signature variant.
+    Bold "7SM" inside a shield-style frame, neon green on dark.
+  -->
+
+  <rect width="256" height="256" rx="40" fill="#0a0e14"/>
+  <rect x="6" y="6" width="244" height="244" rx="36"
+        fill="none" stroke="#1f2933" stroke-width="2"/>
+
+  <!-- Shield outline -->
+  <path d="M 128 32
+           L 208 60
+           L 208 134
+           Q 208 192 128 224
+           Q 48 192 48 134
+           L 48 60 Z"
+        fill="none"
+        stroke="#39ff14"
+        stroke-width="6"
+        stroke-linejoin="round"/>
+
+  <!-- 7SM monogram, centered.
+       Using stroke text to keep it crisp at small sizes. -->
+  <text x="128" y="158"
+        font-family="Consolas, 'Courier New', monospace"
+        font-size="80"
+        font-weight="900"
+        fill="#39ff14"
+        text-anchor="middle"
+        letter-spacing="2">7SM</text>
+</svg>

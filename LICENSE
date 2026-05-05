@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2026 7SM
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+------------------------------------------------------------------------------
+
+ADDITIONAL NOTICE — SECURITY TOOL DISCLAIMER:
+
+This software is a network port scanner. The authors and contributors do not
+condone or take responsibility for any unauthorized use. Scanning networks or
+systems without explicit written permission of their owner may violate laws
+including but not limited to:
+
+  - Computer Fraud and Abuse Act (CFAA) — United States
+  - Computer Misuse Act 1990 — United Kingdom
+  - Section 202a–202c of the German Criminal Code
+  - Article 323-1 of the French Penal Code
+  - Similar laws in most other jurisdictions
+
+Use responsibly, and only on systems you own or have explicit authorization
+to test.

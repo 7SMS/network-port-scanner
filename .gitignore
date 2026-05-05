@@ -1,0 +1,101 @@
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ============================================================
+# Virtual environments
+# ============================================================
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# ============================================================
+# IDEs and editors
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# ============================================================
+# OS-specific
+# ============================================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ============================================================
+# PortScanner-specific
+# ============================================================
+# User data (do NOT commit — contains personal scan history)
+.portscanner/
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+*.log
+logs/
+
+# Test/temporary outputs
+/tmp/
+*.tmp
+scan_results.*
+test_output/
+
+# Don't commit user-generated reports
+!sample_report.html  # exception: sample is OK to commit
+*.html
+*.json
+*.csv
+*.txt
+!README.md
+!ROADMAP.md
+!requirements.txt
+!**/sample_*.html
+
+# ============================================================
+# Tests cache
+# ============================================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
