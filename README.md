@@ -59,7 +59,7 @@ truth:
 ## Project Layout
 
 ```
-portscanner/
+network-port-scanner/
 ├── __init__.py
 ├── __main__.py              # Entry point: GUI by default, --cli for headless
 ├── core/
