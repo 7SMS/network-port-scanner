@@ -8,7 +8,7 @@ GUI. Designed as an authorized security testing and learning tool.
 
 ![Main Window](docs/screenshots/main_window.png)
 
-## What's new in v1.1
+## What's new in v1.2
 
 - **Service version detection** — 28+ regex patterns extract product/version
   from banners (OpenSSH 8.2p1, nginx 1.18.0, Apache 2.4.41, Redis 6.0.16,
