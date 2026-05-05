@@ -6,6 +6,8 @@ Multi-threaded TCP/SYN/UDP port scanner with banner grabbing, service version
 detection, scan profiles, professional HTML reports, and a dark-themed PyQt6
 GUI. Designed as an authorized security testing and learning tool.
 
+![Main Window](docs/screenshots/main_window.png)
+
 ## What's new in v1.1
 
 - **Service version detection** — 28+ regex patterns extract product/version
@@ -20,6 +22,16 @@ GUI. Designed as an authorized security testing and learning tool.
   Ctrl+L/P/F (focus fields), Ctrl+K (clear).
 - **Virtual table model** — handles millions of results without UI lag using
   Qt's model/view architecture.
+
+## Screenshots
+
+### Professional HTML Reports
+
+Export scan results as a single self-contained HTML file with summary
+statistics, service distribution chart, and per-host findings tables. No
+external dependencies — open it in any browser or send to a client.
+
+![HTML Report](docs/screenshots/html_report.png)
 
 ## ⚠ Disclaimer
 
